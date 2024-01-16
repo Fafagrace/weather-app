@@ -1,15 +1,10 @@
-
-
 import './App.css'
+import UilReact from '@iconscout/react-unicons/icons/uil-react'
 
 function App() {
- 
-
   return (
-    <div>
-<h1 className='text-2xl font-bold h-screen w-full flex iems-center'>Hello World</h1>
-    </div>
+<div className='mx-auto max-w-screen-md mt-4 py-5 px-32 bg-gradient-to-br from-cyan-700 to-blue-700 shadow-xl shadow-gray-400'></div>
   )
 }
-
 export default App
+ 
