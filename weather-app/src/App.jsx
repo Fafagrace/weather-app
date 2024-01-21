@@ -1,9 +1,11 @@
-import './App.css'
-import UilReact from '@iconscout/react-unicons/icons/uil-react'
 
 function App() {
   return (
-<div className='mx-auto max-w-screen-md mt-4 py-5 px-32 bg-gradient-to-br from-cyan-700 to-blue-700 shadow-xl shadow-gray-400'></div>
+      <div className="flex justify-center items-center mt-10">
+        <p className='text-red-400'>
+          hello
+        </p>
+      </div>
   )
 }
 export default App
